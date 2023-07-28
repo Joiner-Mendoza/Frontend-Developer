@@ -1,4 +1,4 @@
-# Frontend Developer Novato - Guía de Inicio 🚀
+# Frontend Developer Novato🚀
 
 Esto lo aprendí en el curso practico de Frontend Developer
 
